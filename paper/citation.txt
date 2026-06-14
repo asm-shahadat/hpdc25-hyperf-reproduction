@@ -1,0 +1,1 @@
+Juseong Park, Yongwon Shin, Junghyun Lee, Junseo Lee, Juyeon Kim, OhKyoung Kwon, and Hyojin Sung. "HYPERF: End-to-End Autotuning Framework for High-Performance Computing." In The 34th International Symposium on High-Performance Parallel and Distributed Computing (HPDC’25), July 20–23, 2025, Notre Dame, IN, USA. https://doi.org/10.1145/3731545.3731588

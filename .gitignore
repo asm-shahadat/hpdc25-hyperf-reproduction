@@ -1,0 +1,34 @@
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+*.o
+*.out
+*.exe
+*.log
+*.tmp
+
+# Cloned external repos/build trees
+HYPERF/
+polybench/
+rodinia/
+
+# Large downloaded/generated temporary files
+tmp/
+downloads/
+
+# Private keys / credentials
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+chameleon_rsa
+chameleon_rsa.pub
+
+# Paper PDFs
+paper/*.pdf
