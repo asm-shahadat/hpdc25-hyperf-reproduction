@@ -1,0 +1,36 @@
+{
+  "polybench_kernels": [
+    "2mm",
+    "3mm",
+    "gemm",
+    "syrk",
+    "syr2k",
+    "atax",
+    "bicg",
+    "mvt",
+    "gemver",
+    "gesummv",
+    "durbin",
+    "conv2d",
+    "conv3d"
+  ],
+  "rodinia_kernels": [
+    "hotspot",
+    "particlefilter",
+    "srad"
+  ],
+  "sizes": [
+    "small",
+    "standard",
+    "large"
+  ],
+  "threads": [
+    1,
+    2,
+    4,
+    8,
+    16
+  ],
+  "main_plot_threads": 16,
+  "repeats": 3
+}

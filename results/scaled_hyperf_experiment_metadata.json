@@ -1,0 +1,45 @@
+{
+  "polybench_kernels": [
+    "2mm",
+    "3mm",
+    "gemm",
+    "syrk",
+    "syr2k",
+    "atax",
+    "bicg",
+    "mvt",
+    "gemver",
+    "gesummv",
+    "durbin",
+    "conv2d",
+    "conv3d"
+  ],
+  "rodinia_kernels": [
+    "hotspot",
+    "particlefilter",
+    "srad"
+  ],
+  "sizes": [
+    "small",
+    "standard",
+    "large"
+  ],
+  "threads": [
+    1,
+    2,
+    4,
+    8,
+    16
+  ],
+  "repeats": 3,
+  "main_variants": [
+    "baseline",
+    "optimized"
+  ],
+  "tuning_variants": [
+    "gcc_O2",
+    "gcc_O3",
+    "gcc_O3_native",
+    "gcc_O3_native_unroll"
+  ]
+}

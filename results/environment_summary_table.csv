@@ -1,0 +1,11 @@
+field,value
+paper,HYPERF: End-to-End Autotuning Framework for High-Performance Computing
+artifact_type,scaled reproduction
+site,CHI@UC
+server_name,hpdc25-hyperf-node
+node_type,compute_skylake
+floating_ip,192.5.86.159
+remote_workdir,/home/cc/hpdc25-hyperf-reproduction
+main_plot_threads,16
+polybench_kernel_count,13
+rodinia_kernel_count,3

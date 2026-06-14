@@ -1,0 +1,17 @@
+family,kernel,sizes,thread_counts,artifact_scope
+polybench_style,2mm,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,3mm,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,atax,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,bicg,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,conv2d,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,conv3d,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,durbin,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,gemm,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,gemver,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,gesummv,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,mvt,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,syr2k,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+polybench_style,syrk,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+rodinia_style,hotspot,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+rodinia_style,particlefilter,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
+rodinia_style,srad,"large, small, standard","1, 2, 4, 8, 16",scaled C/OpenMP kernel
